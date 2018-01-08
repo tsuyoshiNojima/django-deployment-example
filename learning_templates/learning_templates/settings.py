@@ -25,7 +25,7 @@ SECRET_KEY = 'bxos+(f=vx1hg6+q)gdtayl9clm4)((awce7vgy!p(1ax-n_d^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tnojima.pythonanywhere.com']
 
 
 # Application definition
